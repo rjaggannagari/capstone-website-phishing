@@ -4,7 +4,7 @@ In this capstone project, we will analyze a dataset and train that data with dif
 
 Directions: Download the data file, and the notebook and you should be able to run the program. It is okay if computing takes a long time since there is so much data.
 
-Future Ideas:
-Application that takes in URL's rather than using the notebook
-Add different ML models
-Use a higher amount of the dataset rather than just 25%
+Future Ideas:  
+Application that takes in URL's rather than using the notebook  
+Add different ML models  
+Use a higher amount of the dataset rather than just 25%  
